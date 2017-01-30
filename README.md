@@ -48,3 +48,8 @@ Fit the antenna pigtail coax to the case using the lock washer and nut supplied.
  Ensure Device has correct Com port selected  (a username/password should not be required for a USB cable connection)
  ![Pycom settings](https://cloud.githubusercontent.com/assets/22086010/22411664/247c1448-e70b-11e6-80c7-e79555ad109d.PNG)
  
+ Type these two commands:
+import os
+os.uname().release
+
+![Pycom check](https://cloud.githubusercontent.com/assets/22086010/22411726/b910fa56-e70b-11e6-93ba-d4e401c84ca4.PNG)
