@@ -93,6 +93,3 @@ MicroPython v1.8.6-412-gf55ba50 on 2017-01-28; LoPy with ESP32
 
 Type "help()" for more information.
 
-
-
-
