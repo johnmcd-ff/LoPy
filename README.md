@@ -22,7 +22,7 @@ Fit the antenna pigtail coax to the case using the lock washer and nut supplied.
 
 ![LoPy antenna close](https://cloud.githubusercontent.com/assets/22086010/22408122/430dc718-e6d8-11e6-9ef1-57e8a7c46c44.JPG)
 
- I've also used a cable tie to hold the pigtail to the case as a strain relief.
+ Note that the pigtail antenna connection has a 'flat' on it to orientate in the case.  I've also used a cable tie to hold the pigtail to the case as a strain relief.
  
  <H2>Upgrade Firmware</H2>
  
