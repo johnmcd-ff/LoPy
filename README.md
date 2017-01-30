@@ -56,3 +56,24 @@ os.uname().release
 The response is the latest version.  In my case 1.5.0.b2
 
 ![Pycom check](https://cloud.githubusercontent.com/assets/22086010/22411726/b910fa56-e70b-11e6-93ba-d4e401c84ca4.PNG)
+
+<H3> Traffic Light program</H3>
+
+Select New Program, either by
+Menu>File>New
+or Press button
+![new program](https://cloud.githubusercontent.com/assets/22086010/22411867/4a368b8a-e70d-11e6-850e-5e41fbe99fcd.PNG)
+
+type in following, remember indentation is important:
+```
+import pycom 
+import time
+pycom.heartbeat(False)
+for cycles in range(10):
+        pycom.rgbled(0x007f00)
+        time.sleep(5)
+        pycom.rgbled(0x7f7f00)
+        time.sleep(1.5)
+        pycom.rgbled(0x7f0000)
+        time.sleep(4)
+```
