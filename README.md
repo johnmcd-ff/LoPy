@@ -87,9 +87,9 @@ Save the program as TrafficLight
 
 Any problems?  Press CTRIL-D for a soft Reset
 
-PYB: soft reboot
-MicroPython v1.8.6-412-gf55ba50 on 2017-01-28; LoPy with ESP32
-Type "help()" for more information.
+PYB: soft reboot/n
+MicroPython v1.8.6-412-gf55ba50 on 2017-01-28; LoPy with ESP32/n
+Type "help()" for more information./n
 
 
 
