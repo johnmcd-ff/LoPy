@@ -29,7 +29,9 @@ Fit the antenna pigtail coax to the case using the lock washer and nut supplied.
  download the upgrade tool from Pycom
  https://docs.pycom.io/pycom_esp32/pycom_esp32/getstarted.html#firmware-upgrades
  
- First use a wire to connect GND and G23 on the expansion board.  Looking at board with USB at top/Pycom logo on left:  GND is 2nd from top on right side, G23 is 4th from top on left side.
+ First use a wire to connect GND and G23 on the expansion board.  Looking at board with USB at top/Pycom logo on left:  GND is 2nd from top on right side, G23 is 4th from top on left side. 
+ 
+![dsc_0654](https://cloud.githubusercontent.com/assets/22086010/22412195/772315d4-e710-11e6-8409-9f44748132e4.JPG)
  
  When the upgrade tool asks for the connected COM port, if you're not sure open Device Manager (windows) and check the Ports list.
  
