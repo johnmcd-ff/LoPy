@@ -59,8 +59,9 @@ The response is the latest version.  In my case 1.5.0.b2
 
 ### Hello LoPy
 At the prompt type:
+'''
 print("Hello LoPy")
-
+'''
 Hello LoPy
 
 ![Pycom check](https://cloud.githubusercontent.com/assets/22086010/22411726/b910fa56-e70b-11e6-93ba-d4e401c84ca4.PNG)
