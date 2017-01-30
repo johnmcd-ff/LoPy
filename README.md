@@ -77,3 +77,9 @@ for cycles in range(10):
         pycom.rgbled(0x7f0000)
         time.sleep(4)
 ```
+Press Run
+![pycom run](https://cloud.githubusercontent.com/assets/22086010/22411901/ad694bca-e70d-11e6-8eb2-de0ad677c8c2.PNG)
+The LoPy LED will start flashing.
+Click in the console (Lower) window and press CTRL-C to stop
+Save the program as TrafficLight
+
