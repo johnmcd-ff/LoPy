@@ -11,10 +11,14 @@ In the left list look for Pycom Device.
 For device, type down 192.168.4.1. The default username and password are micro and python, respectively.
 Click OK
 
-![pycom wifi](https://cloud.githubusercontent.com/assets/22086010/22529345/fa263920-e93b-11e6-9d96-b82c8daa90fa.png)
+![pycom wifi2](https://cloud.githubusercontent.com/assets/22086010/22530879/b706cbd0-e942-11e6-834b-07a59a1a17ff.png)
 
 If you want to use Telnet or FTP use the same settings.  There are some important notes to follow:  Ensure FTP is plain/insecure.  Use Passive transfer mode with maximum of 1 connection.  Detail of this is in link above.
 
 ##  Setup LoPy to your wifi network
 
 Next we'll connect to a local wifi network.
+
+
+
+![pycom wifi](https://cloud.githubusercontent.com/assets/22086010/22529345/fa263920-e93b-11e6-9d96-b82c8daa90fa.png)
