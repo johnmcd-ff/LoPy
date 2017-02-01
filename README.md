@@ -82,7 +82,7 @@ pycom.heartbeat(False)
 for cycles in range(10):
         pycom.rgbled(0x007f00)
         time.sleep(5)
-        pycom.rgbled(0x7f7f00)
+        pycom.rgbled(0x4f4f00)
         time.sleep(1.5)
         pycom.rgbled(0x7f0000)
         time.sleep(4)
@@ -90,16 +90,6 @@ for cycles in range(10):
 Press Run
 ![pycom run](https://cloud.githubusercontent.com/assets/22086010/22411901/ad694bca-e70d-11e6-8eb2-de0ad677c8c2.PNG)
 The LoPy LED will start flashing.
-Click in the console (Lower) window and press CTRL-C to stop
+
 Save the program as TrafficLight
-
-Any problems?  Press CTRL-D for a soft Reset
-PYB: soft reboot
-MicroPython v1.8.6-412-gf55ba50 on 2017-01-28; LoPy with ESP32
-
-Type "help()" for more information.
-![pymakr program](https://cloud.githubusercontent.com/assets/22086010/22412362/9005d5c6-e712-11e6-8a0d-4eba5e228e58.PNG)
-
-
-
-
+![pycom wifi](https://cloud.githubusercontent.com/assets/22086010/22412362/9005d5c6-e712-11e6-8a0d-4eba5e228e58.PNG)
