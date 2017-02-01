@@ -93,3 +93,8 @@ The LoPy LED will start flashing.
 
 Save the program as TrafficLight
 ![pycom wifi](https://cloud.githubusercontent.com/assets/22086010/22412362/9005d5c6-e712-11e6-8a0d-4eba5e228e58.PNG)
+
+Any problems?  Press CTRL-D
+
+![pycmctrl-d](https://cloud.githubusercontent.com/assets/22086010/22529033/a4e30156-e93a-11e6-8907-c9a9346c166c.PNG)
+
