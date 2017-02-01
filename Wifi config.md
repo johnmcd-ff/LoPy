@@ -11,7 +11,7 @@ In the left list look for Pycom Device.
 For device, type down 192.168.4.1. The default username and password are micro and python, respectively.
 Click OK
 
-![pycom wifi](https://cloud.githubusercontent.com/assets/22086010/22412362/9005d5c6-e712-11e6-8a0d-4eba5e228e58.PNG)
+![pycom wifi](https://cloud.githubusercontent.com/assets/22086010/22529345/fa263920-e93b-11e6-9d96-b82c8daa90fa.png)
 
 If you want to use Telnet or FTP use the same settings.  There are some important notes to follow:  Ensure FTP is plain/insecure.  Use Passive transfer mode with maximum of 1 connection.  Detail of this is in link above.
 
