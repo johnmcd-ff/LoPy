@@ -33,7 +33,12 @@ Create a new file:  homewifi.py
 
 ![pycom wifi3](https://cloud.githubusercontent.com/assets/22086010/22532405/ca270d20-e94b-11e6-9fbf-3ecc20ec4b16.png)
 
-Save the file, then Sync the project using the button  ![pycom sync](https://cloud.githubusercontent.com/assets/22086010/22532452/046d398c-e94c-11e6-9d42-430064f33c67.PNG)
+Save the file, this file can be run  ![pycom run](https://cloud.githubusercontent.com/assets/22086010/22411901/ad694bca-e70d-11e6-8eb2-de0ad677c8c2.PNG)
+
+We want to call homewifi.py from main.py, so edit this file to add the line:
+![pycom wifi4](https://cloud.githubusercontent.com/assets/22086010/22532613/243c9bf8-e94d-11e6-8c33-2c6bdefcff9a.png)
+
+then Sync the project using the button  ![pycom sync](https://cloud.githubusercontent.com/assets/22086010/22532452/046d398c-e94c-11e6-9d42-430064f33c67.PNG)
 
 Press CTRL-D for a soft reset to run the code.  It will also be saved and run after power up.
 
