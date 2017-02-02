@@ -28,7 +28,7 @@ The command WLAN().ifconfig() informs us of the IP address that has been set.  I
 
 Now we'd like to put the wifi setup in the boot.
 
-First let's make a file to store the commands.  In Pymakr, start a New Project, called homewifi.  Add in the files boot.py and main.py.
+First let's make a file to store the commands.  In Pymakr, start a New Project, called homewifi.
 Create a new file:  homewifi.py
 
 ![pycom wifi3](https://cloud.githubusercontent.com/assets/22086010/22532405/ca270d20-e94b-11e6-9fbf-3ecc20ec4b16.png)
@@ -39,6 +39,8 @@ We want to call homewifi.py from main.py, so edit this file to add the line:
 ![pycom wifi4](https://cloud.githubusercontent.com/assets/22086010/22532613/243c9bf8-e94d-11e6-8c33-2c6bdefcff9a.png)
 
 then Sync the project using the button  ![pycom sync](https://cloud.githubusercontent.com/assets/22086010/22532452/046d398c-e94c-11e6-9d42-430064f33c67.PNG)
+
+I've had to copy the new main.py to LoPy using Filezilla.  How can Pymakr replace the correct file in /flash ?
 
 Press CTRL-D for a soft reset to run the code.  It will also be saved and run after power up.
 
