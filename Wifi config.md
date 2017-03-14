@@ -31,7 +31,7 @@ Now we'd like to put the wifi setup in the boot.
 First let's make a file to store the commands.  In Pymakr, start a New Project, called homewifi.
 Create a new file:  homewifi.py
 
-![pycom wifi3](https://cloud.githubusercontent.com/assets/22086010/22532405/ca270d20-e94b-11e6-9fbf-3ecc20ec4b16.png)
+![pycom wifi3](https://cloud.githubusercontent.com/assets/22086010/23890352/5aa2118c-08f6-11e7-874f-ce5f270949cc.png)
 
 Save the file, this file can be run  ![pycom run](https://cloud.githubusercontent.com/assets/22086010/22411901/ad694bca-e70d-11e6-8eb2-de0ad677c8c2.PNG)
 
