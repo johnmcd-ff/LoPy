@@ -41,6 +41,10 @@ Fit the antenna pigtail coax to the case using the lock washer and nut supplied.
  Remote the jumper cable
  press the Reset button on the LoPy (next to the big LED.
  
+ <H2> Important note on LoRa transmitting </H2>
+ 
+The frequency band we can use in NZ is 915MHz to 928MHZ.  When you start using your device on Lora to transmit, make sure you only set the frequency in this band.  Do *NOT* use a frequency between 902-915MHz. 
+ 
  <H2>Start Programming</H2>
  
  Let's first check our firmware version.
